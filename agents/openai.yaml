@@ -1,0 +1,4 @@
+interface:
+  display_name: "民事诉讼文书与证据材料"
+  short_description: "按律师标准起草起诉状、答辩状、鉴定申请及证据材料"
+  default_prompt: "使用 $draft-defense-evidence 按标准流程处理本案的起诉状、鉴定申请书和证据材料。"
